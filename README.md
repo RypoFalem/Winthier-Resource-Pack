@@ -1,5 +1,5 @@
 # Winthier-Resource-Pack
-A resource pack that includes textures for Winthier custom items without overrighting texture on non-custom items.
+A resource pack that includes textures for Winthier custom items without overwriting textures on non-custom items.
 
 Requires Optifine to function.
 
